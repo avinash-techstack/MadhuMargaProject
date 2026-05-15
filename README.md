@@ -39,7 +39,7 @@ utils/ → Helper classes
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/MadhuMarga.git](https://github.com/malikarshid01430-byte/MadhuMarga.git)
+git clone : https://github.com/avinash-techstack/MadhuMargaProject
 
 ---
 
@@ -106,7 +106,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Avinash Kumar
 
 ---
 
